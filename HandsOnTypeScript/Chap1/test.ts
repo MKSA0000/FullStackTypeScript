@@ -1,2 +1,3 @@
 let a:number = 10
-console.log(a)
+let b:number = 4;
+console.log(a+b)
