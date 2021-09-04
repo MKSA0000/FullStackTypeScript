@@ -1,6 +1,4 @@
 "use strict";
-var message1 = "hello1";
-console.log(message1);
-var message2 = "hello2";
-console.log(message2);
+var a = 10;
+console.log(a);
 //# sourceMappingURL=test.js.map
