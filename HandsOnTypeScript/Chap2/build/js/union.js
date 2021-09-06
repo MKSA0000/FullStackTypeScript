@@ -1,22 +1,22 @@
-var obj = {
+let obj = {
     name: 'tom',
     age: 25
 };
 console.log(obj);
-var unionobj = {
+let unionobj = {
     name: 'Uni',
     age: 2434
 };
 console.log(unionobj);
-var literal;
+let literal;
 literal = 32;
 console.log(literal);
-var score = 30;
-var sscore = 32;
+let score = 30;
+let sscore = 32;
 console.log(score, sscore);
 function runMore(distance) {
     return distance + 10;
 }
-var nv;
+let nv;
 console.log(nv);
 //# sourceMappingURL=union.js.map
