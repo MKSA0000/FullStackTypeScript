@@ -1,0 +1,1 @@
+//# sourceMappingURL=interfaceInheritance.js.map
